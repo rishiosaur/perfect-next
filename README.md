@@ -2,6 +2,7 @@
 
 ![lint status](https://github.com/rishiosaur/perfect-next/workflows/lint/badge.svg)
 ![format status](https://github.com/rishiosaur/perfect-next/workflows/format/badge.svg)
+![format status](https://github.com/rishiosaur/perfect-next/workflows/build/badge.svg)
 ![GitHub](https://img.shields.io/github/license/rishiosaur/perfect-next)
 ![GitHub issues](https://img.shields.io/github/issues/rishiosaur/perfect-next)
 ![GitHub contributors](https://img.shields.io/github/contributors/rishiosaur/perfect-next)
